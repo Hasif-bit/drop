@@ -6,7 +6,7 @@
 ------------------------important varibles------------------------------------------------------------
 
 rbxname = "Saikou_Hyakuya"
-local prefix = "="
+local prefix = ">"
 local LPlayer = game.Players.Saikou_Hyakuya -- your name on my name (maxbrh1)
 messageLL = "husin on top" 
 speed = 10 --how fast tweengoto is 
