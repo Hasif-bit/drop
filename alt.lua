@@ -5,7 +5,13 @@
 
 ------------------------important varibles------------------------------------------------------------
 
-
+rbxname = "Saikou_Hyakuya"
+local prefix = "="
+local LPlayer = game.Players.Saikou_Hyakuya -- your name on my name (maxbrh1)
+messageLL = "husin on top" 
+speed = 10 --how fast tweengoto is 
+render1 = false --if alts auto unrender when excuted
+resettime = 5.4 --how long it will take to teleport alts back to cordinates noclip command
 
 ---------------------commands--------------------------------------------------------------------------
 --tp teleports alts to you
