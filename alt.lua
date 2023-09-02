@@ -83,10 +83,10 @@ p1.CFrame = game.Players[p2].Character.HumanoidRootPart.CFrame
 		    game.Players.LocalPlayer.Character.Humanoid.Health = 0
     end
 		if cmd == "drop" then
-		    loadstring(game:HttpGet('https://raw.githubusercontent.com/Hasif-bit/drop/main/drop.lua'))()
+		    loadstring(game:HttpGet('https://raw.githubusercontent.com/Hasif-bit/Alt-control/main/drop.lua'))()
     end
         if cmd == "buy" then
-            loadstring(game:HttpGet('https://raw.githubusercontent.com/Hasif-bit/drop/main/buy.lua'))()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/Hasif-bit/Alt-control/main/buy.lua'))()
     end
 		if cmd == "leave" then
 		    game:Shutdown()
