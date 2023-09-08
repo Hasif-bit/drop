@@ -85,6 +85,9 @@ p1.CFrame = game.Players[p2].Character.HumanoidRootPart.CFrame
 		if cmd == "drop" then
 		    loadstring(game:HttpGet('https://raw.githubusercontent.com/Hasif-bit/Alt-control/main/drop.lua'))()
     end
+		if cmd == "enablepvp" then
+		    loadstring(game:HttpGet('https://raw.githubusercontent.com/Hasif-bit/Alt-control/main/enablepvp.lua'))()
+    end
         if cmd == "buy" then
             loadstring(game:HttpGet('https://raw.githubusercontent.com/Hasif-bit/Alt-control/main/buy.lua'))()
     end
