@@ -88,6 +88,15 @@ p1.CFrame = game.Players[p2].Character.HumanoidRootPart.CFrame
 		if cmd == "enablepvp" then
 		    loadstring(game:HttpGet('https://raw.githubusercontent.com/Hasif-bit/Alt-control/main/enablepvp.lua'))()
     end
+			if cmd == "pirates" then
+		    loadstring(game:HttpGet('https://raw.githubusercontent.com/Hasif-bit/Alt-control/main/join%20pirates.lua'))()
+    end
+			if cmd == "marines" then
+		    loadstring(game:HttpGet('https://raw.githubusercontent.com/Hasif-bit/Alt-control/main/join%20marines.lua'))()
+    end
+			if cmd == "ping" then
+		    loadstring(game:HttpGet('https://raw.githubusercontent.com/Hasif-bit/Alt-control/main/ping.lua'))()
+    end
         if cmd == "buy" then
             loadstring(game:HttpGet('https://raw.githubusercontent.com/Hasif-bit/Alt-control/main/buy.lua'))()
     end
